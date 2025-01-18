@@ -1,4 +1,4 @@
-# ![logo](https://raw.githubusercontent.com/wakatime/wakaq/main/wakatime-logo.png "WakaQ") WakaQ
+ # ![logo](https://raw.githubusercontent.com/wakatime/wakaq/main/wakatime-logo.png "WakaQ") WakaQ
 
 [![wakatime](https://wakatime.com/badge/github/wakatime/wakaq.svg)](https://wakatime.com/badge/github/wakatime/wakaq)
 
